@@ -33,3 +33,7 @@ UPDATE `portal_aluno`.`aluno` SET `Sem` = '5-Sem' WHERE (`Ra` = '102498') and (`
 UPDATE `portal_aluno`.`aluno` SET `Sem` = '2-Sem' WHERE (`Ra` = '602267') and (`Sem` = '2-Sem') and (`CPF` = '2147483647') and (`Rg` = '395291587');
 UPDATE `portal_aluno`.`aluno` SET `Sem` = '4-Sem' WHERE (`Ra` = '702368') and (`Sem` = '4-Sem') and (`CPF` = '2147483647') and (`Rg` = '397281517');
 UPDATE `portal_aluno`.`aluno` SET `Sem` = '1-Sem' WHERE (`Ra` = '702569') and (`Sem` = '1-Sem') and (`CPF` = '2147483647') and (`Rg` = '396297584');
+
+
+
+
